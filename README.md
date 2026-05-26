@@ -1,7 +1,5 @@
 # Presentació final de curs
 
-# Presentació final de curs
-
 Aquest repositori conté el material utilitzat per a la **presentació final de curs**.
 
 L’objectiu principal d’aquest repositori és tenir tota la informació organitzada en un sol lloc per poder preparar i fer la defensa de manera clara i ordenada.
