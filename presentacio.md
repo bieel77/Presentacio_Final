@@ -66,5 +66,3 @@ Els principals aprenentatges han estat:
 Això seria tot per la meva defensa.
 
 Moltes gràcies per la vostra atenció.
-
-Quedo disponible per respondre qualsevol pregunta.
