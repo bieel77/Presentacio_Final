@@ -44,7 +44,7 @@ A continuació es deixen els enllaços als repositoris dels projectes:
 * **Projecte 5:** [Enllaç al repositori](https://github.com/bieel77/projecte5-bieel77)
 * **Projecte 6:** [Enllaç al repositori](https://github.com/bieel77/projecte6-bieel77)
 * **Projecte 7:** [Enllaç al repositori](https://github.com/bieel77/projecte-7-bieel77)
-* **Projecte 8:** [Enllaç al repositori](https://github.com/usuari/repositori-3](https://github.com/bieel77/Projecte3_EverPia2))  
+* **Projecte 8:** [Enllaç al repositori](https://github.com/classesSMX2n/projecte-8-bieel77)
 ---
 
 ## 5. Conclusions i aprenentatges
