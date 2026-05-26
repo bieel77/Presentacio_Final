@@ -17,7 +17,7 @@ Aquest fitxer actuarà com a fil conductor per seguir una estructura clara duran
 3. Enllaços als projectes
 4. Documentació
 5. Conclusions i aprenentatges
-
+6. Tancament i conclusions
 ---
 
 ## 3. Objectiu de la defensa
@@ -61,7 +61,7 @@ Els principals aprenentatges han estat:
 
 ---
 
-## 8. Tancament
+## 6. Tancament
 
 Això seria tot per la meva defensa.
 
