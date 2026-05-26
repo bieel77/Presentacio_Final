@@ -37,7 +37,7 @@ Durant la presentació es destacaran:
 
 A continuació es deixen els enllaços als repositoris dels projectes:
 
-* **Projecte 1:** [Enllaç al repositori] (No realitzat per Erasmus)
+* **Projecte 1:** (No realitzat per Erasmus)
 * **Projecte 2:** [Enllaç al repositori](https://github.com/bieel77/Projecte2_EverPia)
 * **Projecte 3:** [Enllaç al repositori](https://github.com/bieel77/Projecte3_EverPia2)
 * **Projecte 4:** [Enllaç al repositori](https://github.com/bieel77/Projecte4_EverPia3)
