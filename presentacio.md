@@ -2,7 +2,7 @@
 
 ## 1. Presentació personal
 
-Bon dia/tarda,
+Bona tarda,
 
 Em dic Biel Pérez i avui presentaré la meva defensa final. En aquesta presentació explicaré breument el treball realitzat, els recursos principals i els aprenentatges adquirits durant el procés.
 
