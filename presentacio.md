@@ -38,6 +38,7 @@ Durant la presentació es destacaran:
 A continuació es deixen els enllaços als repositoris dels projectes:
 
 * **Projecte 1:** (No realitzat per Erasmus)
+* tasques individuals del projecte: [Tasca Emprenedor](https://docs.google.com/document/d/1ZkJidY-mFL_PiieINDDA-I5RBAI1H5cc2ljCT5tIIZE/edit?usp=sharing)/[Tasca TCP/IP](https://docs.google.com/document/d/1vY-QUH9aVZTTuQ79XQAkXcj95VzRya88rtR418AZgx4/edit?usp=sharing)
 * **Projecte 2:** [Enllaç al repositori](https://github.com/bieel77/Projecte2_EverPia)
 * **Projecte 3:** [Enllaç al repositori](https://github.com/bieel77/Projecte3_EverPia2)
 * **Projecte 4:** [Enllaç al repositori](https://github.com/bieel77/Projecte4_EverPia3)
